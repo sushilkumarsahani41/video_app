@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797357980722",
+    "project_id": "blackcoffer-88a06",
+    "storage_bucket": "blackcoffer-88a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797357980722:android:0b4879b4c46cfb9155502b",
+        "android_client_info": {
+          "package_name": "com.sushilkumar.video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797357980722-vo7s9cg9t6gsm65k6i6bt83c7lkhdkr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs47T837HhB-xgLNRqp9AWmtOiluyR6n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797357980722-vo7s9cg9t6gsm65k6i6bt83c7lkhdkr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
